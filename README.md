@@ -8,7 +8,7 @@ Interactive Tableau dashboard analyzing housing affordability in Canada using th
 
 This repository contains the analyses, cleaned data, and visual assets used to build an interactive Tableau dashboard that explores housing affordability across Canada (by province, age group, and education). Key insight from the analysis: young adults face the highest housing burden.
 
-Tableau dashboard (public): https://public.tableau.com/xxxxxx
+Tableau dashboard (public): [https://public.tableau.com/app/profile/jiale.shen/viz/shared/D95T69T8P]
 
 ---
 
